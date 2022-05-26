@@ -1,6 +1,6 @@
 # virtualworld
 
-This is a virtual world for with ThreeJs (https://threejs.org/) and enable3d (https://enable3d.io/).
+This is a virtual world project with [ThreeJs] (https://threejs.org/) and [enable3d] (https://enable3d.io/).
 
 ## Getting Started
 
@@ -15,3 +15,8 @@ Second, run the development build
 ```bash
 npm run dev
 ```
+
+
+Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
+
+you can visit to [https://game-data.gameindy.com/virtualworld](https://game-data.gameindy.com/virtualworld).
