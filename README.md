@@ -18,6 +18,14 @@ npm run dev
 
 Third, Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
 
+# Control
+
+Move - WASD
+
+Shift - Run
+
+Mouse / Pointer - Camera Control
+
 # Play & Fun with your friend
 
 you can visit to [https://game-data.gameindy.com/virtualworld](https://game-data.gameindy.com/virtualworld).
