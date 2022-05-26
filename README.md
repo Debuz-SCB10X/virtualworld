@@ -2,7 +2,7 @@
 
 This is a virtual world project with ThreeJs (https://threejs.org/) and enable3d (https://enable3d.io/).
 
-## Getting Started
+# Getting Started
 
 First, install dependencies.
 
@@ -18,6 +18,6 @@ npm run dev
 
 Third, Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
 
-### Play & Fun with your friend
+# Play & Fun with your friend
 
 you can visit to [https://game-data.gameindy.com/virtualworld](https://game-data.gameindy.com/virtualworld).
