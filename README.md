@@ -1,4 +1,4 @@
-# Virtualworld Project
+# Project Overview
 
 This is a virtual world project with ThreeJs (https://threejs.org/) and enable3d (https://enable3d.io/).
 
